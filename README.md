@@ -1,4 +1,4 @@
-**web-aesthetic-master-skill**
+# web-aesthetic-master-skill
 
 This is an Agent Skill designed to significantly improve the aesthetic quality and taste of AI-generated frontends.
 
